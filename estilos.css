@@ -1,0 +1,74 @@
+body {
+	background-image: url("imgs/MFF_elem10.png");
+	background-color: #FCEAE5;
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left; 
+}
+
+
+a:link, a:visited {
+	color:#e9501c;
+}
+
+#social {
+
+}
+
+.barra {
+	background-color:  #e9501c;
+
+}
+
+#banner {
+
+
+}
+#conf {
+background-image: url("imgs/MFF_elem.10.png");
+  background-repeat: repeat; 
+}
+
+p#conf{
+
+}
+
+.data {
+	background-color: #e9501c;
+  	color: white;
+  	padding-left: 4px;
+  	margin-bottom: 1px;
+  	padding-left:3px;
+  	padding-bottom: 1px;
+  	padding-top: 1px;
+  	padding-right: 3px;
+}
+
+.titulo {
+	background-color: #454545;
+	color: white;
+	padding: 4px;
+	margin-top:1px;
+	margin-bottom: 1px;
+}
+
+a.nome {
+	color:#454545;
+}
+
+.fundobranco {
+	background-color: #FCEAE5;
+}
+
+.small {
+	font-size: 80%;
+}
+
+#webinar{
+	background-color: grey;
+}
+
+#footer {
+	background-color: #FCEAE5;
+	border-top: 1px solid grey;
+}
